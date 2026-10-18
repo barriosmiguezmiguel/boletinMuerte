@@ -4,5 +4,5 @@
 /**
  * 
  */
-module boletinMuerte {
+module jijuji {
 }
